@@ -61,6 +61,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/google/
+  name: Google
+  x-relationship: acquired
+  x-evidence: "simsim was an Accel-backed India-based social / video commerce startup (sector: consumer) that let creators sell products through short shoppable videos; it was acquired by Google in 2021 and wound down."
 - type: DomainSecurity
   url: security/simsim-domain-security.yml
 - type: Website
