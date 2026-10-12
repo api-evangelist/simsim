@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/simsim/integrations
+- https://n8n.io/integrations/simsim/
+- https://composio.dev/toolkits/simsim
+- https://monid.ai/tools/simsim
+checked:
+- https://composio.dev/toolkits/simsim
+- https://monid.ai/tools/simsim
+- https://n8n.io/integrations/simsim/
+- https://zapier.com/apps/simsim/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
